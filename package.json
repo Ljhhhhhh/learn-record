@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "commit": "git add --all && git-cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-conventional-changelog"
+    }
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^16.0.0",
+    "@commitlint/config-conventional": "^16.0.0",
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "^3.3.0"
+  }
+}
