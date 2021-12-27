@@ -1,13 +1,5 @@
 # 学习过程中用到的项目记录
 
-| 目录          | 所学内容      | 备注 |
-| ------------- | ------------- | ---- |
-| redux-toolkit | redux-toolkit | 备注 |
-
-
-
-
-
 <details>
 <summary>redux-toolkit</summary>
 日期：2021.12.27 ~ 2021.12.27
