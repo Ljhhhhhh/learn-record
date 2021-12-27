@@ -7,7 +7,9 @@
   1. [redux-toolkit](https://redux-toolkit.js.org/tutorials/typescript)
 
 
-<details>
-<summary>redux-toolkit</summary>
-
-</details>
+### babel
+* 日期：2021.12.20 ~ 
+* 对应项目：babel-plugin-exercize
+* 相关技术：`babel`
+* 相关链接：
+  1. [Babel 插件通关秘籍](https://juejin.cn/book/6946117847848321055)
